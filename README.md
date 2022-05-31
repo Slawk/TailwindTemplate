@@ -14,6 +14,7 @@ To display the pages you created, you can use the VSCode Liveserver extension or
 If you use Liverserver, each file you created is accessible by a path like this : `localhost:1234/pages/yourfile.html` (the "1234" represents the port of Liveserver)
 
 **To rebuild the Tailwind CSS file, you can execute the following command in a terminal opened in the folder of your project : `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch` everytime you work on it.**
+
 ---
 
 ## 🇫🇷 Français 🇫🇷
