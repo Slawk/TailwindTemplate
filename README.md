@@ -1,4 +1,4 @@
-# 🌱 TailwindCSS Template
+# 🌱 TAILWINDCSS TEMPLATE
 
 ## 🇺🇸 English 🇬🇧
 
